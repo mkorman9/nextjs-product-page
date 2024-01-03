@@ -6,7 +6,8 @@ import './global.css';
 
 export const metadata: Metadata = {
   title: 'Blendify',
-  description: 'You send it, we blend it!'
+  description: 'You send it, we blend it!',
+  keywords: ['blending', 'baas', 'startup']
 };
 
 export const viewport: Viewport = {
