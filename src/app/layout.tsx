@@ -19,7 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body className="bg-gradient-to-br from-green-500 to-green-700">
         <TopBar />
-        <div className="flex min-h-[100vh]">
+        <div className="flex min-h-[100vh] overflow-hidden">
           {children}
         </div>
         <Footer />
