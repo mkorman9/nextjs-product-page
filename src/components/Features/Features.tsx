@@ -4,8 +4,8 @@ import {GiFruitBowl} from 'react-icons/gi';
 
 const Features = () => {
   return (
-    <div className="bg-gradient-to-b from-green-700 to-green-500">
-      <div className="flex flex-col gap-2 items-center text-center">
+    <div>
+      <div className="flex flex-col gap-2 items-center text-center m-2">
         <span className="text-4xl font-bold text-gray-300">Blend anything you ever wanted to</span>
         <span className="text-lg text-gray-300">
           Send us your favourite product and we will make a smooth pulp out of it

@@ -3,9 +3,9 @@ import Features from '@/components/Features/Features';
 
 export default function Page() {
   return (
-    <div className="flex flex-col">
+    <main className="flex flex-col">
       <MainContent />
       <Features />
-    </div>
+    </main>
   );
 }

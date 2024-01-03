@@ -3,8 +3,7 @@ import Image from 'next/image';
 
 const MainContent = () => {
   return (
-    <div className="flex w-screen h-screen items-center justify-center text-gray-300
-                    bg-gradient-to-b from-green-500 to-green-700">
+    <div className="flex w-screen h-screen items-center justify-center text-gray-300">
       <div className="flex gap-[10vw] m-2">
         <div className="flex flex-col text-left justify-center gap-3">
           <span className="text-6xl font-bold">You send it, we blend it!</span>
