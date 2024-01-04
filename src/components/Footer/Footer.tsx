@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer>
       <div className="flex flex-col items-center justify-center
-                      gap-16 text-white text-lg m-2 mt-32">
+                      gap-16 text-white text-lg p-2 mt-32">
         <div className="flex gap-32">
           <div className="flex flex-col">
             <span className="font-bold">CONTACT</span>

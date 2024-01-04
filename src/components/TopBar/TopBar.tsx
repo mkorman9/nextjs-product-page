@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const TopBar = () => {
   return (
-    <div className="flex w-screen h-16 justify-evenly text-gray-100 items-center m-0">
+    <div className="flex w-screen h-16 justify-evenly text-gray-100 items-center">
       <div className="flex max-lg:ml-4">
         <FaBlender size={38} color="white"/>
         <span className="ml-2 font-bold text-2xl">Blendify</span>

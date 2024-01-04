@@ -4,7 +4,7 @@ import Image from 'next/image';
 const MainContent = () => {
   return (
     <div className="flex w-screen h-screen items-center justify-center text-gray-300">
-      <div className="flex gap-[10vw] m-2">
+      <div className="flex gap-[10vw] p-2">
         <div className="flex flex-col text-left justify-center gap-3">
           <span className="text-6xl font-bold">You send it, we blend it!</span>
           <span className="text-xl">The first Blending as a service startup in the world</span>
