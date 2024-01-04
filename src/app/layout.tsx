@@ -17,7 +17,7 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className="bg-gradient-to-br from-green-500 to-green-700">
+      <body className="bg-green-500 bg-gradient-to-br from-green-500 to-green-700">
         <TopBar />
         <div className="flex min-h-[100vh] overflow-hidden">
           {children}
