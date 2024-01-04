@@ -17,8 +17,6 @@ const MainContent = () => {
         <Image
           src={splashImg}
           alt=""
-          width={1004}
-          height={742}
           className="w-auto h-[55vh] rounded-xl shadow-xl max-lg:hidden m-auto" />
       </div>
     </div>
