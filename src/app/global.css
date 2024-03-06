@@ -3,4 +3,7 @@
 @tailwind utilities;
 
 @layer components {
+    body {
+        overflow-x: hidden;
+    }
 }
